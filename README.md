@@ -39,10 +39,12 @@ User-uploaded file can now enter S3 bucket using the signed URL.
   -  Create Method: `POST`
   -  Attach Lambda function as proxy
   - Enable CORS
-    
+     
+ ---
     
   
   ##### _Reference:_
 [1] - https://docs.aws.amazon.com/AmazonS3/latest/dev/PresignedUrlUploadObject.html
+
 
 [2] - https://boto3.readthedocs.io/en/latest/guide/s3.html#generating-presigned-urls
